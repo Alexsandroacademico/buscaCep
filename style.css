@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(60,37,105);
+    background: linear-gradient(90deg, rgba(60,37,105,1) 0%, rgba(126,36,203,1) 100%); 
+    
+}
+
+.Container-principal{
+    background-color: black;
+    color: white;
+    opacity: 0.75;
+    padding: 25px;
+    border-radius: 15px;          
+      
+}
+ 
+        
+.titulo{
+ text-align: center;
+  
+}
+
+#cep{
+    margin-top: 10px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 20px;
+    color:black;
+}
+
+h2{
+    margin-top: 10px;
+    
+    
+}
+
+
+
+    
+
